@@ -1,1 +1,38 @@
+nav,
+ol,
+li {
+/* border: 1px solid #000; */
+}
 
+nav li {
+display: inline /* block */;
+margin-right: 1.1em; /* 1em=16px */
+}
+
+ins {
+			text-decoration: none;
+			}
+del	{
+			display: none;
+			}
+p {
+display: list-item;
+line-height: 1.4;
+padding-left: 1em;
+margin-left: 1em;
+}
+
+nav ol {
+padding-left: 0;
+}
+
+address {
+text-align: right;
+}
+
+body {
+/* background-color: lightblue; */
+width: 90%;
+max-width: 700px;
+margin: auto;
+}
