@@ -1,0 +1,26 @@
+	a		{
+			color: black;
+			text-decoration: none;
+			}
+	del	{
+			display: none;
+			}
+	p		{
+			line-height: 2;
+			text-indent: 2em;
+			margin: 0;
+			}
+	ins {
+			text-decoration: none;
+			}
+header,
+#notes h2{
+			text-indent: 0;
+			}
+nav {
+display: none;
+}
+ body {
+ width: 6.5in;
+ margin: 0 auto;
+ }
