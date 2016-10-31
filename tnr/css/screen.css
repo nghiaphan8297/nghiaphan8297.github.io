@@ -92,10 +92,10 @@ margin: auto auto 1em auto;}
 
 .border4
 {
-border-bottom: 2px solid #111;
+border-top: 3px solid #111;
 padding: 0em 0em 0em 0em;
-  margin: 5em auto 0em auto;
-max-width: 800px;}
+  margin: 4em auto -1em auto;
+max-width: 250px;}
 
 .border5
 {
@@ -215,7 +215,8 @@ div:target p {
 }
 
 address {text-align:  right;
-	margin: 0 0 10em 0;}
+  margin: 0 0 10em 0;
+border-top: 5px solid #111;}
 
 h5 a {text-decoration: none;
 color: black;
