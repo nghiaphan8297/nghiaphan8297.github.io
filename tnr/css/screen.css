@@ -109,6 +109,7 @@ margin: 1.2em auto 0.5em auto;
   color: black;
 }
 
+
 a {text-decoration: none;}
 p {margin:auto auto 1em auto;}
 
@@ -216,4 +217,8 @@ div:target p {
 address {text-align:  right;
   margin: 0 0 10em 0;)
 
+h5 a {text-decoration: none;
+color: black;
+}
 
+h5 {font-size: 120%}
