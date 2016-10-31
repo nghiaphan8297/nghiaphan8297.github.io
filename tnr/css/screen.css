@@ -105,7 +105,8 @@ max-width: 450px;}
 
 
 h3 {font-size: 150%;
-margin: 1.2em auto 0.5em auto;}
+margin: 1.2em auto 0.5em auto;
+text-decoration: none;}
 
 p {margin:auto auto 1em auto;}
 
@@ -191,7 +192,7 @@ background-color: #ffd;}
 p.lh1 {line-height: 1.5;
 font-size: 150%;
 margin-bottom: 3em;
-text-decoration: none;}
+}
 
 .size6
 {font-size: 1.2em;}
