@@ -221,4 +221,7 @@ h5 a {text-decoration: none;
 color: black;
 }
 
-h5 {font-size: 120%}
+h5 {font-size: 140%}
+
+p a {color: black;
+font-weight: bold;}
