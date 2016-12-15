@@ -243,11 +243,11 @@ top: 9em;
 border: 0 solid transparent;
 width: 25em;
 height: 0em;
-background color: lightblue;
+background-color: lightblue;
 color: white;
 text-align: center;}
 
 p.big {font-size: 130%}
-p.bigger {font-side: 250%}
+p.bigger {font-size: 250%}
 
 
