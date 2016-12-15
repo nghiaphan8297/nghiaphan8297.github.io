@@ -1,0 +1,547 @@
+body {margin:0;
+background-color:white;}
+
+#rambox
+{width:10em;
+height:10em;
+  border: 1em dashed white;
+  font-size: 400%;
+  position: relative;
+  margin: auto;
+z-index: 0;}
+
+#rambox .one {position: absolute;
+width:0em;
+height:0em;
+border:5em solid transparent;
+border-top:0em;
+border-bottom: 5em solid green;
+z-index:5;
+}
+
+#rambox .two {position: absolute;
+width:0em;
+height:0em;
+border:3em solid white;
+border-top:0em;
+border-bottom: 3em solid white;
+z-index:20;
+left: 2em;}
+
+#rambox .three {position: absolute;
+width:0em;
+height:0em;
+border:4.5em solid transparent;
+border-top:0em;
+border-bottom: 5em solid green;
+z-index:15;
+ opacity:1;
+  left: .5em;
+  top:0em;
+
+}
+
+#rambox .four {position: absolute;
+width:6.9em;
+height:0em;
+border:0.3em solid transparent;
+border-top:0em;
+border-bottom: 0.3em solid white;
+z-index:10;
+ opacity:1;
+  left: 1.25em;
+  top:3.4em;
+
+}
+
+#rambox .five {position: absolute;
+width:8.7em;
+height:0em;
+border:0.3em solid transparent;
+border-top:0em;
+border-bottom: 0.3em solid white;
+z-index:10;
+ opacity:1;
+  left: 0.35em;
+  top:4.3em;
+
+}
+
+#rambox .six {position: absolute;
+width:.3em;
+height:.2em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:20;
+ opacity:1;
+  left: 0.4em;
+  top:4.7em;
+
+}
+
+#rambox .seven {position: absolute;
+width:.3em;
+height:.2em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:20;
+ opacity:1;
+  left: 9.3em;
+  top:4.7em;
+
+}
+
+#rambox .eight {position: absolute;
+width:.3em;
+height:.2em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:20;
+ opacity:1;
+  left: 2em;
+  top:3.1em;
+
+}
+
+#rambox .nine {position: absolute;
+width:.3em;
+height:.2em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:20;
+ opacity:1;
+  left: 7.7em;
+  top:3.1em;
+
+}
+
+#rambox .ten {position: absolute;
+width:.3em;
+height:.2em;
+border:0em solid white;
+  background-color:brown;
+  border-radius: 50%;
+z-index:25;
+ opacity:1;
+  left: 3.1em;
+  top:4.9em;
+
+}
+
+/* #rambox .eleven {position: absolute;
+width:0em;
+height:0em;
+border:4em solid red;
+border-top:0em;
+border-bottom: 5em solid purple;
+z-index:20;
+ opacity:0.5;
+  left: 1em;
+  top:0em;
+
+} */
+
+#rambox .twelve {position: absolute;
+width:7.52em;
+height:0em;
+border:.24em solid transparent;
+border-top:0em;
+border-bottom: 0.3em solid yellow;
+z-index:20;
+ opacity:1;
+  left: 1em;
+  top:4.7em;
+
+}
+
+#rambox .thirteen {position: absolute;
+width:10em;
+height:0.15em;
+border:0 solid red;
+  background-color: black;
+z-index:20;
+ opacity:1;
+  left: 0em;
+  top:5em;
+
+}
+
+#rambox .fourteen {position: absolute;
+width:8em;
+height:0.15em;
+border:0 solid red;
+  background-color: brown;
+z-index:20;
+ opacity:1;
+  left: 1em;
+  top:5em;
+
+}
+
+#rambox .fifteen {position: absolute;
+width:6.8em;
+height:0.15em;
+border:0 solid red;
+  background-color: black;
+z-index:12;
+ opacity:1;
+  left: 1.6em;
+  top:3.4em;
+
+}
+
+#rambox .sixteen {position: absolute;
+width:8.6em;
+height:0.15em;
+border:0 solid red;
+  background-color: black;
+z-index:12;
+ opacity:1;
+  left: .7em;
+  top:4.3em;
+
+}
+
+#rambox .seventeen {position: absolute;
+width:5.12em;
+height:0em;
+border:1.04em solid transparent;
+border-top:0em;
+border-bottom: 1.3em solid black;
+z-index:20;
+ opacity:1;
+  left: 1.4em;
+  top:3.2em;
+
+}
+
+
+
+#rambox .eighteen {position: absolute;
+width:3.2em;
+height:0em;
+border:.65em solid transparent;
+border-top:0em;
+border-bottom: 1.3em solid green;
+z-index:20;
+ opacity:1;
+  left:2.75em;
+  top:3.2em;
+
+}
+#rambox .nineteen {position: absolute;
+width:2.88em;
+height:0em;
+border:.585em solid transparent;
+border-top:0em;
+border-bottom: 1.3em solid black;
+z-index:20;
+ opacity:1;
+  left:2.975em;
+  top:3.2em;
+
+}
+
+#rambox .twenty {position: absolute;
+width:0.96em;
+height:0em;
+border:.195em solid transparent;
+border-top:0em;
+border-bottom: 1.3em solid green;
+z-index:20;
+ opacity:1;
+  left:4.325em;
+  top:3.2em;
+
+}
+
+#rambox .twenty-1 {position: absolute;
+width:.64em;
+height:0em;
+border:.13em solid transparent;
+border-top:0em;
+border-bottom: 1.3em solid black;
+z-index:30;
+ opacity:1;
+  left:4.55em;
+  top:3.2em;
+
+}
+
+#rambox .twenty-2 {position: absolute;
+width:0em;
+height:0em;
+border:.195em solid transparent;
+  border-left:.225em solid green;
+border-top:0em;
+border-bottom: 1.3em solid green;
+z-index:25;
+ opacity:1;
+  right:4.325em;
+  top:3.2em;
+
+}
+
+#rambox .twenty-3 {position: absolute;
+width:0em;
+height:0em;
+border:.585em solid green;
+  border-left:.585em solid transparent;
+border-top:0em;
+border-bottom: 1.3em solid green;
+z-index:21;
+ opacity:1;
+  left:2.975em;
+  top:3.2em;
+
+}
+
+#rambox .twenty-4 {position: absolute;
+width:1.28em;
+height:0em;
+border:.26em solid transparent;
+  border-left:.26em solid green;
+border-top:0em;
+border-bottom: 1.3em solid black;
+z-index:23;
+ opacity:1;
+  left:4.1em;
+  top:3.2em;
+
+}
+
+#rambox .twenty-5 {position: absolute;
+width:.3em;
+height:.2em;
+border:0em solid white;
+  background-color:white;
+  border-radius: 50%;
+z-index:25;
+ opacity:1;
+  left: 3.1em;
+  top:5.075em;
+
+}
+
+#rambox .point1
+{position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:transparent;
+z-index:50;
+ opacity:1;
+  left:3.35em;
+  top:3.8em;
+
+}
+
+
+#rambox .point1 .point1-2 {position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:50;
+ opacity:1;
+  left:.6em;
+  top:0em;
+
+}
+
+#rambox .point1 .point1-3 {position: absolute;
+width:.6em;
+height:.01em;
+border:0em solid white;
+  background-color:black;
+z-index:50;
+ opacity:1;
+  left:0em;
+  top:0.02em;
+
+}
+
+#rambox .point2
+{position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:transparent;
+z-index:50;
+ opacity:1;
+  right:0.05em;
+  top:.15em;
+
+}
+
+#rambox .point2 .point2-1 {position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:50;
+ opacity:1;
+  left:0em;
+  top:0em;
+
+}
+
+
+
+#rambox .point2 .point2-3 {position: absolute;
+width:.7em;
+height:.01em;
+border:0em solid white;
+  background-color:black;
+z-index:50;
+ opacity:1;
+  left:0em;
+  top:0.02em;
+
+}
+
+#rambox .point3
+{position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:transparent;
+z-index:50;
+ opacity:1;
+  right:0.07em;
+  top:.2em;
+
+}
+
+#rambox .point3 .point3-1 {position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:50;
+ opacity:1;
+  left:0em;
+  top:0em;
+
+}
+
+#rambox .point3 .point3-3 {position: absolute;
+width:.72em;
+height:.01em;
+border:0em solid white;
+  background-color:black;
+z-index:50;
+ opacity:1;
+  left:0em;
+  top:0.02em;
+
+}
+
+#rambox .point4
+{position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:transparent;
+z-index:50;
+ opacity:1;
+  left:0.2em;
+  bottom:.6em;
+
+}
+
+#rambox .point4 .point4-1 {position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:50;
+ opacity:1;
+  left:0em;
+  top:0em;
+
+}
+
+#rambox .point4 .point4-2 {position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:50;
+ opacity:1;
+  left:.6em;
+  top:0em;
+
+}
+
+#rambox .point4 .point4-3 {position: absolute;
+width:.6em;
+height:.01em;
+border:0em solid white;
+  background-color:black;
+z-index:50;
+ opacity:1;
+  left:0em;
+  top:0.02em;
+
+}
+
+#rambox .point5
+{position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:transparent;
+z-index:50;
+ opacity:1;
+  left:0.06em;
+  bottom:.2em;
+
+}
+
+#rambox .point5 .point5-1 {position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:50;
+ opacity:1;
+  left:0em;
+  top:0em;
+
+}
+
+#rambox .point5 .point5-2 {position: absolute;
+width:.1em;
+height:.05em;
+border:0em solid white;
+  background-color:black;
+  border-radius: 50%;
+z-index:50;
+ opacity:1;
+  left:.6em;
+  top:0em;
+
+}
+
+#rambox .point5 .point5-3 {position: absolute;
+width:.6em;
+height:.01em;
+border:0em solid white;
+  background-color:black;
+z-index:50;
+ opacity:1;
+  left:0em;
+  top:0.02em;
+
+}
